@@ -1,3 +1,7 @@
+# DATA 310
+
+## Informal Responses
+
 ### Informal Resopnse 1
 
 A) According to Moroney, machine learning and traditional programming consist of three similar components: data, answers, and rules. The difference between these two types of 
