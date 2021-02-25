@@ -10,7 +10,7 @@
 
 [Informal Response 3]
 
-[Informal Response 4]
+[Informal Response 4](https://rj-bartlett.github.io/Response4.md/)
 
 
 
