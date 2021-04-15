@@ -15,3 +15,9 @@
 
 
 ### Projects
+
+[Project 1](https://rj-bartlett.github.io/Project1/)
+
+[Project 2]()
+
+[Project 3]()
