@@ -28,6 +28,6 @@
 
 [Project 1](https://rj-bartlett.github.io/Project1/)
 
-[Project 2]()
+[Project 2](https://rj-bartlett.github.io/Project-2/)
 
 [Project 3]()
