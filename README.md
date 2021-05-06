@@ -18,7 +18,7 @@
 
 #### Module 3
 
-[Informal Response 1]()
+[Informal Response 1](https://rj-bartlett.github.io/informal_response_mod3/)
 
 [Informal Response 2](https://rj-bartlett.github.io/infomral-response-mod3_part2/)
 
