@@ -30,4 +30,4 @@
 
 [Project 2](https://rj-bartlett.github.io/Project-2/)
 
-[Project 3]()
+[Project 3](https://rj-bartlett.github.io/Project3_writeup/)
