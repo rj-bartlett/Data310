@@ -22,6 +22,8 @@
 
 #### Module 4
 
+[Informal Response 1]()
+
 ### Projects
 
 [Project 1](https://rj-bartlett.github.io/Project1/)
@@ -29,3 +31,5 @@
 [Project 2](https://rj-bartlett.github.io/Project-2/)
 
 [Project 3](https://rj-bartlett.github.io/Project3_writeup/)
+
+[Project 4](https://rj-bartlett.github.io/Project4/)
