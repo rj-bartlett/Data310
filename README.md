@@ -33,3 +33,5 @@
 [Project 3](https://rj-bartlett.github.io/Project3_writeup/)
 
 [Project 4](https://rj-bartlett.github.io/Project4/)
+
+[Final Project](https://rj-bartlett.github.io/Final-Project/[Final Project])
